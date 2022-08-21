@@ -1,4 +1,4 @@
-glslangValidator -V 18_shader_vertexbuffer.vert -o vert.spv
-glslangValidator -V 18_shader_vertexbuffer.frag -o frag.spv
+glslangValidator -V 22_shader_ubo.vert -o vert.spv
+glslangValidator -V 22_shader_ubo.frag -o frag.spv
 
 
